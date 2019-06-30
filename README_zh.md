@@ -83,6 +83,6 @@ target_link_libraries（<target> <PRIVATE | PUBLIC | INTERFACE> tensorflow）
 
 要生成graph.pb文件，需要使用图形定义和一组检查点，并将它们一起冻结到一个文件中。
 
-### [如何从tensorflow.dll for windows创建tensorflow.lib文件的示例]（https://github.com/Neargye/hello_tf_c_api/blob/master/doc/create_lib_file_from_dll_for_windows.md）
+### [如何从tensorflow.dll for windows创建tensorflow.lib文件的示例](https://github.com/Neargye/hello_tf_c_api/blob/master/doc/create_lib_file_from_dll_for_windows.md)
 
 ## Licensed under the [MIT License](LICENSE)
